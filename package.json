@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-desafio01-rocketseat",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellysonmartins/nodejs-desafio01-rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellysonmartins/nodejs-desafio01-rocketseat/issues"
+  },
+  "homepage": "https://github.com/wellysonmartins/nodejs-desafio01-rocketseat#readme",
+  "dependencies": {
+    "csv-parse": "^5.5.3"
+  }
+}
